@@ -13,3 +13,6 @@ Place: Pune, India
 
 Name: [Nitika Gupta](https://github.com/NitikaGupta16)
 Place: Delhi, India 
+
+Name: [Tirth Patel](https://github.com/Tirth22)
+Place: Ahmedabad, Indi
